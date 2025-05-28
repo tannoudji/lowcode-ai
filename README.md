@@ -1,2 +1,2 @@
 # lowcode-ai
-MAterial from lowcode-ai O'reilley book (v4)
+Material from lowcode-ai O'reilley book (v4)
